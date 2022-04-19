@@ -1,0 +1,14 @@
+body {
+  margin: 110;
+  padding: 110;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  text-align-last: auto;
+  color: rgba(0, 0, 0, 0);
+  text-emphasis-color: rgb(201, 56, 56);
+  color-scheme: rgb(118, 176, 26);
+  scrollbar-highlight-color: black;
+  outline-color: black;
+  color-adjust: rgb(219, 245, 26);
+  
+}
